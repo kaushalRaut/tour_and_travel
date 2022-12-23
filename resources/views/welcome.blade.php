@@ -65,6 +65,9 @@
         </style>
     </head>
     <body>
+        <div class="kpsir">
+            kaushal raut
+        </div>
         <div><p>kaushal</p></div>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
