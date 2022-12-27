@@ -80,6 +80,7 @@
                     @endauth
                 </div>
             @endif
+            <h1>welcome in voting</h1>
 
             <div class="content">
                 <div class="title m-b-md">
