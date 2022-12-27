@@ -81,6 +81,7 @@
                 </div>
             @endif
             <h1>welcome in voting</h1>
+            <h2>kaushal darling</h2>
 
             <div class="content">
                 <div class="title m-b-md">
